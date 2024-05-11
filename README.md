@@ -1,4 +1,5 @@
 # Stock-Predictor-SP
+![55](https://github.com/Ferasqr/Stock-Predictor-SP/assets/93034515/07c3b285-5cb8-41c1-b8f9-f121a1a7cc3e)
 
 
 The Stock-Predictor-SP is a powerful financial tool built using Streamlit, designed to predict future stock prices based on historical data from Yahoo Finance. This application offers a selection of forecasting models, including Prophet, ARIMA, Exponential Smoothing, and Random Forest, to provide insights into potential future stock price movements.
